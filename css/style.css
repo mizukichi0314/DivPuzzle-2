@@ -35,7 +35,7 @@ body {
   background-color: #0093b7;
 }
 .content-right {
-  float: right;
+  float: left;
   width: 100px;
   height: 150px;
   background-color: #ff9e6b;
